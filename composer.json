@@ -1,0 +1,27 @@
+{
+    "name": "ethanclevenger91/featured-video-plus",
+    "type": "wordpress-plugin",
+    "description": "Add Featured Videos to your posts and pages.",
+    "authors": [
+        {
+            "name": "Alexander Höreth",
+            "homepage": "http://yrnxt.com/"
+        },
+        {
+            "name": "Christian Lewin",
+            "homepage": "http://www.lewinlabs.de/"
+        },
+        {
+            "name": "Ethan Clevenger",
+            "email": "ethan@sternerstuff.dev",
+            "homepage": "https://sternerstuff.dev"
+        }
+    ],
+    "keywords": [
+        "wordpress",
+        "wp"
+    ],
+    "support": {
+        "issues": "https://github.com/ethanclevenger91/featured-video-plus/issues"
+    }
+}
